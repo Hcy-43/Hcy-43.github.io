@@ -57,17 +57,17 @@
     }
   ],
   "volunteer": [
-  {
-    "organization": "Department of Information Management, National Taiwan University",
-    "location": "Shunan Junior High School, Yilan, Taiwan",
-    "position": "Volunteer Instructor",
-    "url": "https://www.sanjh.ilc.edu.tw/",
-    "startDate": "2024-11-01",
-    "endDate": "2024-11-10",
-    "summary": "Participated in NTU’s service learning program, teaching programming to children in rural communities to promote digital literacy and problem-solving skills.",
-    "highlights": [
-      "Python",
-      "Interactive Activities"
+    {
+      "organization": "Department of Information Management, National Taiwan University",
+      "location": "Shunan Junior High School, Yilan, Taiwan",
+      "position": "Volunteer Instructor",
+      "url": "https://www.sanjh.ilc.edu.tw/",
+      "startDate": "2024-11-01",
+      "endDate": "2024-11-10",
+      "summary": "Participated in NTU's service learning program, teaching programming to children in rural communities to promote digital literacy and problem-solving skills.",
+      "highlights": [
+        "Python",
+        "Interactive Activities"
       ]
     },
     {
@@ -81,7 +81,7 @@
       "highlights": [
         "Cultural Exchange",
         "Language Learning"
-        ]
+      ]
     },
     {
       "organization": "Osaka Prefectural Tennoji High School Exchange Visit",
