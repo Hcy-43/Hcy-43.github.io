@@ -1,24 +1,22 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Chun Yu Hsu",
+    "label": "Research Assistant",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "michael920403@gmail.com",
+    "phone": "(886) 968-128-269",
+    "url": "https://Hcy-43.github.io/al-folio/",
+    "summary": "Research Assistant at Natural Language Processing and Sentiment Analysis Lab, Academia Sinica. Holds a B.B.A in Information Management from National Taiwan University.",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Github",
+        "username": "Hcy-43",
+        "url": "https://github.com/Hcy-43"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Chun Yu (Michael) Hsu",
+        "url": "https://www.linkedin.com/in/chun-yu-hsu-1444a8253/"
       }
     ]
   },
