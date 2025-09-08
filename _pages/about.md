@@ -28,4 +28,4 @@ latest_posts:
 
 I am currently a research assistant at [Natural Language Processing and Sentiment Analysis Lab, Academia Sinica](https://academiasinicanlplab.github.io). My research interests focuses on Natural Language Processing and AI safety. I graduated from [National Taiwan University](https://www.ntu.edu.tw/) recently with a B.B.A in [Information Management](https://management.ntu.edu.tw/IM).
 
-When I am not coding, I enjoy play the guitar and photography.
+When I am not coding, I enjoy playing the guitar and taking photos.

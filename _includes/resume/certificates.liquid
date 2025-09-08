@@ -18,7 +18,15 @@
               {% assign i = i | plus: 1 %}
             {% endfor %}
             <td colspan="{{ i }}" class="list-group-category">
-              <a href="{{ content.url | default: # }}">{{ content.name }}</a>
+              {% if content.url %}
+                {% if content.url contains '://' %}
+                  <a href="{{ content.url }}" target="_blank" rel="noopener noreferrer">{{ content.name }}</a>
+                {% else %}
+                  <a href="{{ content.url | prepend: '/assets/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer">{{ content.name }}</a>
+                {% endif %}
+              {% else %}
+                {{ content.name }}
+              {% endif %}
             </td>
           </tr>
           <tr>
