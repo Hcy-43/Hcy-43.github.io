@@ -63,7 +63,7 @@
       "location": "Taipei, Taiwan",
       "url": "https://www.ntu.edu.tw/",
       "area": "Software Development, Deep Learning",
-      "studyType": "B.B.A",
+      "studyType": "B.B.A in Information Management",
       "startDate": "2021-09-01",
       "endDate": "2025-06-30"
     },
@@ -130,17 +130,23 @@
       "icon": "fa-solid fa-language"
     },
     {
-      "name": "TOEFL 111",
+      "name": "TOEFL 111/120",
       "date": "2023-12-16",
       "issuer": "ETS",
       "url": "TOEFL2023.pdf",
       "icon": "fa-solid fa-language"
     },
     {
-      "name": "TOEIC 950",
+      "name": "TOEIC 950/990",
       "date": "2021-02-21",
       "issuer": "ETS",
       "url": "TOEIC.pdf",
+      "icon": "fa-solid fa-language"
+    },
+    {
+      "name": "GRE 322/340",
+      "date": "2025-08-31",
+      "issuer": "ETS",
       "icon": "fa-solid fa-language"
     }
   ],
