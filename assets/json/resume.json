@@ -26,7 +26,6 @@
       "position": "Research Assistant",
       "url": "https://academiasinicanlplab.github.io",
       "startDate": "2025-07-01",
-      "endDate": "Now",
       "summary": "Working on natural language processing, AI safety, and fake news explanation.",
       "highlights": ["Fake News Explanation", "Natural Language Processing", "AI Safety"]
     },
@@ -43,8 +42,8 @@
       "name": "National Taiwan University",
       "position": "Teaching Assistant",
       "url": "https://www.ntu.edu.tw/",
-      "startDate": "2023-07-01",
-      "endDate": "2023-12-31",
+      "startDate": "2024-07-01",
+      "endDate": "2024-12-31",
       "summary": "Guided students in learning C++ and Object-Oriented Programming concepts during weekly TA sessions",
       "highlights": ["C++", "Object-Oriented Programming"]
     },
@@ -52,6 +51,7 @@
       "name": "Taipei Dangdai Art & Ideas",
       "position": "Interpreter",
       "startDate": "2024-11-01",
+      "endDate": "2024-11-01",
       "url": "https://taipeidangdai.com/",
       "summary": "Provided Japanese-English–Mandarin interpretation for 'A Lighthouse called Kanata', assisting in client communications and artwork sales during the art fair.",
       "highlights": ["Interpretation", "Japanese", "English"]
@@ -105,15 +105,18 @@
     {
       "organization": " Exchange Visit, Osaka Prefectural Tennoji High School",
       "position": "Campus Tour Guide",
+      "startDate": "2024-03-01",
+      "endDate": "2025-03-30",
       "summary": "Guided a group of visiting Japanese high school students around National Taiwan University, introducing campus life and fostering cultural exchange.",
       "highlights": [
-        "Cultural Exchange"
+        "Cultural Exchange",
+        "Interpretation"
       ]
     }
   ],
   "certificates": [
     {
-      "name": "Certified AI Practitioner",
+      "name": "AWS Certified AI Practitioner",
       "date": "2024-12-01",
       "issuer": "AWS",
       "url": "aws_ai_practioner.pdf",
