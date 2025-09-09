@@ -24,11 +24,15 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+# Images to display below content
+images:
+  - path: "assets/img/about/duck.jpg"
+    title: "A duck shot at Kawaguchiko, Japan."
+    class: "img-fluid"
 ---
 
 I am currently a research assistant at [Natural Language Processing and Sentiment Analysis Lab, Academia Sinica](https://academiasinicanlplab.github.io). My research interests focuses on Natural Language Processing, fake news explanation, and AI safety. I graduated from [National Taiwan University](https://www.ntu.edu.tw/) recently with a B.B.A in [Information Management](https://management.ntu.edu.tw/IM).
 
 When I am not coding, I enjoy playing the guitar and taking photos.
-
-{% include figure.liquid path="assets/img/about/duck.jpg" title="A duck shot at Kawaguchiko, Japan." class="img-fluid" %}
 

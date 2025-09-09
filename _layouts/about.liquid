@@ -46,6 +46,15 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Images -->
+    {% if page.images %}
+      <div class="images-section">
+        {% for image in page.images %}
+          {% include figure.liquid path=image.path caption=image.title class=image.class %}
+        {% endfor %}
+      </div>
+    {% endif %}
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
